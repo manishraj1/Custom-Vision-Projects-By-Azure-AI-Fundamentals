@@ -37,7 +37,6 @@ Azure Custom Vision is part of Azure's Cognitive Services suite. It allows you t
 # Model Performances 
 - Project Object detector
 <img width="500" height="500" alt="Screenshot 2025-07-27 at 6 00 24 PM" src="https://github.com/user-attachments/assets/306502f1-4d89-4545-b806-b68780eb821e" />
-
 - Project Farm Animal Classifier
 <img width="500" height="500" alt="Screenshot 2025-07-27 at 5 59 39 PM" src="https://github.com/user-attachments/assets/9ddfc341-e317-441b-9191-565da978eed7" />
 
