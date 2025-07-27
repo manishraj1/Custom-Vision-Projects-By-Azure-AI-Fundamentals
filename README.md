@@ -5,7 +5,7 @@
 This project demonstrates how to use **Microsoft Azure's Custom Vision service** to build and deploy an image classification model. Azure Custom Vision enables developers to easily train and deploy machine learning models for specific visual recognition tasks — all without needing deep expertise in AI or computer vision.
 
 # Create a Custom Vision resource on Azure Portal
-<img width="400" height="400" alt="Screenshot 2025-07-27 at 7 26 10 PM" src="https://github.com/user-attachments/assets/14c0c499-90a3-4648-ad2e-4183d7c3d58e" />
+<img width="500" height="500" alt="Screenshot 2025-07-27 at 7 26 10 PM" src="https://github.com/user-attachments/assets/14c0c499-90a3-4648-ad2e-4183d7c3d58e" />
 
 
 ---
