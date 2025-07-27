@@ -1,1 +1,1 @@
-# Custom-Vision-Projects-By-Azure-AI-Fundamentals
+# Custom Vision Projects By Azure AI-Fundamentals
