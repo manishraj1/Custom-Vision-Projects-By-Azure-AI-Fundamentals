@@ -103,8 +103,6 @@ This project demonstrates one or more of the following (depending on your setup)
 
 ---
 
----
-
 # Author
 
 Manish Raj Vangari
