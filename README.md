@@ -1,5 +1,9 @@
 # Azure Custom Vision Project
 
+# Microsoft Certified Azure AI Fundamentals
+<img width="1428" height="812" alt="Screenshot 2025-07-27 at 3 35 47 PM" src="https://github.com/user-attachments/assets/40f60ed5-45b3-4fdc-afce-8218322c0252" />
+
+
 ## Overview
 
 This project demonstrates how to use **Microsoft Azure's Custom Vision service** to build and deploy an image classification model. Azure Custom Vision enables developers to easily train and deploy machine learning models for specific visual recognition tasks — all without needing deep expertise in AI or computer vision.
