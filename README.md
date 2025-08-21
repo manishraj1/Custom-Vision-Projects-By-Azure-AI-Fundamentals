@@ -2,7 +2,7 @@
 
 
 # Microsoft Certified Azure AI Fundamentals
-<img width="900" height="800" alt="Screenshot 2025-08-21 at 2 36 50 PM" src="https://github.com/user-attachments/assets/7baec1c9-e977-44ac-995a-ad92ad79a2ae" />
+<img width="700" height="700" alt="Screenshot 2025-08-21 at 2 36 50 PM" src="https://github.com/user-attachments/assets/7baec1c9-e977-44ac-995a-ad92ad79a2ae" />
 
 
 ## Overview
