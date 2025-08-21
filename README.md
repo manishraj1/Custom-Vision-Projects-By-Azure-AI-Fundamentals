@@ -53,6 +53,56 @@ Azure Custom Vision is part of Azure's Cognitive Services suite. It allows you t
 - Python script to interact with the prediction API
 - Model performance dashboard (precision, recall, etc.)
 
+# Azure AI Language Studio Project
+
+## Overview
+
+This project uses **Microsoft Azure AI Language Studio** to analyze and understand human language through various Natural Language Processing (NLP) tasks. Azure AI Language enables developers to extract meaning from text, classify content, analyze sentiment, detect key phrases, recognize named entities, and more — all powered by the cloud and easy to integrate into any application.
+
+---
+
+## 💡 What is Azure AI Language Studio?
+
+Azure AI Language Studio is a suite of prebuilt and customizable NLP tools in Azure Cognitive Services. It allows you to:
+
+- Analyze sentiment and opinions in text
+- Detect and classify named entities
+- Extract key phrases and topics
+- Summarize long documents
+- Build custom text classification and entity extraction models
+
+All of this can be done through a low-code/no-code interface or REST APIs for programmatic access.
+
+---
+# Creating Project Azure-Al-Language-Studios
+<img width="500" height="500" alt="Screenshot 2025-07-27 at 6 02 53 PM" src="https://github.com/user-attachments/assets/ac836c23-60e4-42a0-9240-f087e275771b" />
+
+
+## 🤖 How Azure Helps in NLP Projects
+
+- **Prebuilt Models**: Use out-of-the-box NLP tools for instant analysis.
+- **Customizable Workflows**: Train your own models for text classification and entity recognition.
+- **Scalable APIs**: Analyze millions of text entries at scale using REST endpoints.
+- **Multilingual Support**: Azure supports multiple languages with translation and language detection capabilities.
+- **Integration Friendly**: Easily integrate with web apps, mobile apps, or backend systems using Python, C#, or JavaScript.
+
+---
+# Azure-Al-Language-Studios Model Performance
+<img width="500" height="500" alt="Screenshot 2025-07-27 at 6 04 32 PM" src="https://github.com/user-attachments/assets/7c571cca-7c33-410d-b81a-11964920fbf6" />
+
+## 🚀 Project Features
+
+This project demonstrates one or more of the following (depending on your setup):
+
+- Sentiment Analysis
+- Named Entity Recognition (NER)
+- Key Phrase Extraction
+- Language Detection
+- Text Summarization
+- Custom Text Classification
+
+---
+
 ---
 
 # Author
